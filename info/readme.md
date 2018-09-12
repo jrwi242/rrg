@@ -1,5 +1,8 @@
 ___ 
 <!-- 3 underscores is a hr in Markdown-->
+
+[Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 # Amazing Facts about the Red River Gorge
 
 Salutations! I hope this FAQ on my page will peek your interest! :)
