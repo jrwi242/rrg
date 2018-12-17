@@ -3,7 +3,7 @@
  # December 9, 2018
  # Sky Bridge
 
- 1. I chose Sky Bridge as my landform to study.I estimate it is about 120 feet tall  and has regular arch shape. The Avenza map data came back with results thhat were a little confusing. However the actually height of Sky Bridge is close to 300 ft.
+ 1. I chose Sky Bridge as my landform to study.I estimate it is about 40 feet tall  and has regular arch shape. The Avenza map data came back with results thhat were a little confusing. However the actually height of Sky Bridge is close to 23 ft.
 
  ![ A ground-level view of Sky Bridge and its arch ](basemap\Ground View.jpg)
 
