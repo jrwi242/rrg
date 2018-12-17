@@ -9,9 +9,9 @@
 
  ![ A view on top of Sky Bridge showing a side ](basemap\sky b on top and side.jpg)
  
- ![A view from the ground on one side of Sky Bridge](basemap\Upward view.jpg)
+ ![A view from the ground on one side of Sky Bridge](Github.com\rrg\basemap\Upward view.jpg)
 
-  ![A view from the top of Sky Bridge](basemap\straight view on sky b.jpg
+  ![A view from the top of Sky Bridge](Github.com\rrg\basemap\straight view on sky b.jpg
 
    ![A view from the ground looking at one side of the Sky Bridge Arch ](basemap\underneath sky- one side.jpg
 
